@@ -14,7 +14,7 @@
 
 ![buildspace#0389](https://user-images.githubusercontent.com/7548766/185107870-faecdbc8-f681-4a17-9ef1-abdba37ba4a2.png)
 
-[https://user-images.githubusercontent.com/7548766/185107745-b10963e2-08eb-46b0-9924-5a65a9656b50.mp4]
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/7548766/185108123-423ade80-764d-42ac-9ed1-ab2e31fc6501.gif)
 
 ## Connect with me
 [Twitter](https://twitter.com/OkumuOriaro)
