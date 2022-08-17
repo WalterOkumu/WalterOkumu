@@ -12,9 +12,13 @@
 
 ## NFTs I have won during various challenges
 
-![buildspace#0389](https://user-images.githubusercontent.com/7548766/185107870-faecdbc8-f681-4a17-9ef1-abdba37ba4a2.png)
+[<img align="left" alt="Buildspace_nft" width="400px" src="https://user-images.githubusercontent.com/7548766/185107870-faecdbc8-f681-4a17-9ef1-abdba37ba4a2.png" style="padding-right:10px;" />]
 
-[<img align="left" alt="buildspace" width=250px src="https://user-images.githubusercontent.com/7548766/185108123-423ade80-764d-42ac-9ed1-ab2e31fc6501.gif" />]
+[<img align="left" alt="Buildspace_nft" width="400px" src="https://user-images.githubusercontent.com/7548766/185108123-423ade80-764d-42ac-9ed1-ab2e31fc6501.gif" style="padding-right:10px;" />]
+
+
+<br />
+<br />
 
 ## Connect with me
 [Twitter](https://twitter.com/OkumuOriaro)
