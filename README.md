@@ -1,6 +1,6 @@
-### Jambo! I am Walter Okumu! 👋
-- 🔭 I’m currently working on a Election DataMap Application
-- 🌱 I’m currently learning Web Development, Remote Working & Pair Programming on Microverse
+### Jambo! I am Walter Okumu! 👋 👋 👋 👋
+- 🔭 I’m currently working on an Election DataMap Application
+- 🌱 I’m currently enhancing my learning in Web Development, Remote Working & Pair Programming on Microverse
 - 📫 How to reach me: [OkumuOriaro] (https://twitter.com/okumuoriaro)
 
 <!--
