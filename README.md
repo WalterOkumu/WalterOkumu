@@ -1,13 +1,9 @@
-### Jambo! I am Walter Okumu! 👋 👋 👋 👋
-- 🔭 I’m currently working on an Election DataMap Application
-- 🌱 I’m currently enhancing my learning in Web Development, Remote Working & Pair Programming on Microverse
-- 📫 How to reach me: [OkumuOriaro] (https://twitter.com/okumuoriaro)
+# Jambo! I am Walter Okumu! 👋 👋 👋 👋
 
-<!--
-**WalterOkumu/WalterOkumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
--->
+## I'm a Husband, Father, Developer, and Mentor!!
+- 🔭 I am currently a Microverse Student. Check out the course --> [Microverse] (https://www.microverse.org/?grsf=t0fr55)!![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Learn more about web3, cement my knowledge in JavaScript, React & Ruby
+- ⚡ Fun fact: I love to design African Print Apparel
