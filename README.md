@@ -1,6 +1,9 @@
 # Jambo! I am Walter Okumu! 👋 👋 👋 👋
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walterokumu&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=walterokumu&count_private=true&theme=tokyonight&showicons=true)]()
+![](https://github-readme-streak-stats.herokuapp.com/?user=walterokumu&theme=dark&hide_border=false)
 
 ## I'm a Husband, Father, Developer, and Mentor
 
@@ -32,11 +35,4 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walterokumu&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=walterokumu&count_private=true&theme=tokyonight&showicons=true)]()
-![](https://github-readme-streak-stats.herokuapp.com/?user=walterokumu&theme=dark&hide_border=false)<br/>
 ---
