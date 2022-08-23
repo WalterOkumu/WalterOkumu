@@ -1,6 +1,6 @@
 # Jambo! I am Walter Okumu! 👋 👋 👋 👋
 
-[!](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walterokumu&langs_count=5&theme=tokyonight)]()
 
