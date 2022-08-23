@@ -22,7 +22,7 @@
 
 ## Connect with me
 
-[https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FOkumuOriaro]()
+[<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FOkumuOriaro">]
 &nbsp;&nbsp;
 [<img alt="LinkedIn" width="100px" src="https://user-images.githubusercontent.com/7548766/185110757-f3183da4-a16b-4127-a8fb-e463cf8ae108.jpg" />](www.linkedin.com/in/okumu-o-12818429)
 
