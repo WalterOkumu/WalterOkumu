@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+<img src="https://komarev.com/ghpvc/?username=WalterOkumu&label=Profile%20views&color=0e75b6&style=flat" alt="WalterOkumu" />
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walterokumu&langs_count=5&theme=tokyonight)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=walterokumu&count_private=true&theme=tokyonight&showicons=true)]()
