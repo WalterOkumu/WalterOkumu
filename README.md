@@ -4,6 +4,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=WalterOkumu&label=Profile%20views&color=0e75b6&style=flat" alt="WalterOkumu" />
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WalterOkumu" alt="WalterOkumu" /></a>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walterokumu&langs_count=5&theme=tokyonight)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=walterokumu&count_private=true&theme=tokyonight&showicons=true)]()
