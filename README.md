@@ -24,7 +24,7 @@
 
 [<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%231DA1F2&label=Connect%20on%20Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FOkumuOriaro">](https://twitter.com/OkumuOriaro)
 &nbsp;&nbsp;
-[<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%230072b1%20&label=Connect%20on%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fokumu-o-12818429%2F">](https://www.linkedin.com/in/okumu-o-12818429/)
+[<img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230072b1%20&label=Connect%20on%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fokumu-o-12818429%2F">](https://www.linkedin.com/in/okumu-oriaro/)
 
 ## NFTs I have won during various challenges
 
