@@ -32,6 +32,6 @@
 
 <img alt="Buildspace_nft" width="400px" src="https://user-images.githubusercontent.com/7548766/185108123-423ade80-764d-42ac-9ed1-ab2e31fc6501.gif" />
 
-### Languages, Tools & Framewworks
+### Languages, Tools & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,sass,react,nodejs,mongodb,postgres,mysql,linux,github,githubactions,vercel,tailwind,solidity,sequelize,stackoverflow,rust,rubyredux,replit,regex,redis,raspberrypi,rails,postman,php,npm,netlify,firebase,express,c,cpp,bootstrap)](https://skillicons.dev)
