@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Walter Okumu
 
 **Full-Stack Engineer | Customer Success Leader | Tech Mentor**  
-📍 Nairobi, Kenya · 📧 okumu@yourdomain.com · 🔗 [walterokumu.github.io](https://walterokumu.github.io)
+📍 Nairobi, Kenya · 📧 okumu.oriaro@gmail.com · 🔗 [walterokumu.github.io](https://walterokumu.github.io)
 
 ---
 
