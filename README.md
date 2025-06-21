@@ -1,37 +1,68 @@
-# Jambo! I am Walter Okumu! 👋 👋 👋 👋
+# 👋 Hey there, I’m Walter Okumu
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+**Full-Stack Engineer | Customer Success Leader | Tech Mentor**  
+📍 Nairobi, Kenya · 📧 okumu@yourdomain.com · 🔗 [walterokumu.github.io](https://walterokumu.github.io)
 
-<img src="https://komarev.com/ghpvc/?username=WalterOkumu&label=Profile%20views&color=0e75b6&style=flat" alt="WalterOkumu" />
+---
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WalterOkumu" alt="WalterOkumu" /></a>
+## 🚀 About Me
+I’m the Head of Customer Success & Web Development at **Maokwa Services Limited**, where I lead a 14-person, multi-country team to deliver scalable web apps and AI-powered automations. I specialize in **Next.js**, **React**, **Node.js**, **GraphQL**, and **PostgreSQL**, and I’m passionate about using technology to solve real-world business challenges.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=walterokumu&langs_count=5&theme=tokyonight)]()
+---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=walterokumu&count_private=true&theme=tokyonight&showicons=true)]()
+## 🏆 Highlights & Impact
+- **Led** development of a multi-tenant procurement tool adopted by 50+ branches across East Africa  
+- **Scaled** Yellow Pages Kenya’s Ollama-powered chatbot to serve 10K+ monthly queries  
+- **Built** a headless eCommerce platform with integrated M-Pesa checkout, increasing transaction speed by 40%  
+- **Mentor** at Microverse: guiding full-stack cohorts in JavaScript, React, and best practices  
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=walterokumu&theme=dark&hide_border=false)
+---
 
-## I'm a Husband, Father, Developer, and Mentor
-- ⚒️ I am currently the Head of Customer Success & Web Development, managing a team of 14 across 3 countries
-- 🔭 I am a Mentor at Microverse. Check out the course --> [Microverse](https://www.microverse.org/?grsf=t0fr55)!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on open-source projects
-- 🥅 2024 Goals: Learn more about web3, Rust & Solidity.
-- ⚡ Fun fact: I love to design African Print Apparel
+## 🛠️ Tech Stack
 
-## Connect with me
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![Next.js](https://skillicons.dev/icons?i=nextjs)  
+![React](https://skillicons.dev/icons?i=react)  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![GraphQL](https://skillicons.dev/icons?i=graphql)  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![Docker](https://skillicons.dev/icons?i=docker)  
+![AWS](https://skillicons.dev/icons?i=aws)  
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)  
 
-[<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%231DA1F2&label=Connect%20on%20Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FOkumuOriaro">](https://twitter.com/OkumuOriaro)
-&nbsp;&nbsp;
-[<img alt="LinkedIn URL" src="https://img.shields.io/twitter/url?color=%230072b1%20&label=Connect%20on%20LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fokumu-o-12818429%2F">](https://www.linkedin.com/in/okumu-oriaro/)
+---
 
-## NFTs I have won during various challenges
+## 📂 Featured Projects
 
-<img alt="Buildspace_nft" width="400px" src="https://user-images.githubusercontent.com/7548766/185107870-faecdbc8-f681-4a17-9ef1-abdba37ba4a2.png" />
+| Project                              | Description                                                         | Repo                                                                                      |
+|--------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| **Procurement Tool**                 | Multi-tenant request management with SSH-tunnel & RLS on Postgres   | [WalterOkumu/procurement-tool](https://github.com/WalterOkumu/procurement-tool)           |
+| **Headless eCommerce**               | Next.js + Headless WordPress store with M-Pesa Express integration  | [WalterOkumu/headless-ecommerce](https://github.com/WalterOkumu/headless-ecommerce)       |
+| **AI Chatbot Workflows**             | Ollama + LangChain automations for custom LLM pipelines              | [WalterOkumu/ai-chatbot](https://github.com/WalterOkumu/ai-chatbot)                       |
+| **Digital Signage Dashboard**        | Real-time analytics & content management for Rhodium Digital Signage| [WalterOkumu/rhodium-dashboard](https://github.com/WalterOkumu/rhodium-dashboard)         |
 
-<img alt="Buildspace_nft" width="400px" src="https://user-images.githubusercontent.com/7548766/185108123-423ade80-764d-42ac-9ed1-ab2e31fc6501.gif" />
+---
 
-### Languages, Tools & Frameworks
+## 📈 GitHub Stats
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,sass,react,nodejs,mongodb,postgres,mysql,linux,github,githubactions,vercel,tailwind,solidity,sequelize,stackoverflow,rust,rubyredux,replit,regex,redis,raspberrypi,rails,postman,php,npm,netlify,firebase,express,c,cpp,bootstrap)](https://skillicons.dev)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterOkumu&langs_count=5&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api/?username=WalterOkumu&count_private=true&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Learning & Goals
+- **2025 Focus**: Rust • Solidity • Web3 protocols  
+- **Always exploring**: AI-driven market research, blockchain for fintech
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/okumu-oriaro/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@OkumuOriaro-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/OkumuOriaro)  
+[![Microverse](https://img.shields.io/badge/Microverse-Mentor-purple?style=for-the-badge&logo=microverse)](https://www.microverse.org)
+
+---
+
+> “I build tools that empower teams to do more, faster.”  
+
