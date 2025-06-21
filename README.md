@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I’m the Head of Customer Success & Web Development at **Maokwa Services Limited**, where I lead a 14-person, multi-country team to deliver scalable web apps and AI-powered automations. I specialize in **Next.js**, **React**, **Node.js**, **GraphQL**, and **PostgreSQL**, and I’m passionate about using technology to solve real-world business challenges.
+I’m the Head of Customer Success & Web Development at **Yellow Pages Group**, where I lead a 14-person, multi-country team to deliver scalable web apps and AI-powered automations. I specialize in **Next.js**, **React**, **Node.js**, **GraphQL**, and **PostgreSQL**, and I’m passionate about using technology to solve real-world business challenges.
 
 ---
 
