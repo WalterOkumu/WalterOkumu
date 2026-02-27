@@ -52,9 +52,7 @@ Currently available for **freelance projects** and **fractional technical leader
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterOkumu&langs_count=6&theme=tokyonight&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api/?username=WalterOkumu&count_private=true&show_icons=true&theme=tokyonight)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/WalterOkumu?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
