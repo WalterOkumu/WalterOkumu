@@ -69,7 +69,7 @@ Currently available for **freelance projects** and **fractional technical leader
 If you need a senior engineer who can build, lead, and deliver — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/okumu-oriaro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=vercel)](https://walterokumu.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=vercel)](https://walter-okumu-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-orange?style=for-the-badge&logo=gmail)](mailto:okumu.oriaro@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@OkumuOriaro-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/OkumuOriaro)
 
