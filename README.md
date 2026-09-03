@@ -1,78 +1,66 @@
-# Hi, I'm Walter Okumu 👋
+# Walter Okumu Oriaro
 
-**Full-Stack Engineer & Tech Lead**  
-📍 Nairobi, Kenya · 📧 okumu.oriaro@gmail.com · 🌍 Remote-friendly · **Open to freelance projects**
-
----
-
-## 🚀 About Me
-
-I build fast, scalable web systems for growing businesses — from frontend to cloud deployment.
-
-For the past 4+ years at **Yellow Pages Group**, I've led a 15-person team across Kenya, Cape Verde, and Mozambique — delivering full-stack platforms, AI-powered automations, and infrastructure that runs reliably at scale. I work at the intersection of engineering and business: I don't just write code, I understand what the system needs to do for the people using it.
-
-Currently available for **freelance projects** and **fractional technical leadership** engagements.
+**Integration Architect & Engineering Leader**
+Nairobi, Kenya (UTC+3) · [walterokumu.github.io](https://walterokumu.github.io/) · [LinkedIn](https://www.linkedin.com/in/okumu-oriaro/) · okumu.oriaro@gmail.com
 
 ---
 
-## 🏆 Impact & Highlights
+I design and run the systems that sit between other systems — payment rails, CRMs, ERPs, analytics platforms and directory data — for a multi-country business operating across seven markets.
 
-- **Migrated** 7 country websites from Drupal to Next.js — 20% faster page loads, improved SEO across all markets
-- **Built** a multi-tenant procurement system adopted by 50+ branches across East Africa
-- **Scaled** an Ollama-powered AI chatbot to serve 10,000+ monthly queries
-- **Deployed** a headless eCommerce platform with M-Pesa Express checkout — 40% faster transactions
-- **Implemented** a CI/CD pipeline using GitHub Actions + Docker — 30% reduction in deployment errors
-- **Mentoring** full-stack developers at Microverse since 2022
+Currently **Head of Product Development at Yellow Pages Group**, reporting to the CEO and COO, with technical ownership of the group's product platform across Kenya, Cape Verde, Mozambique, São Tomé, Angola, Tanzania and East Timor. I lead a small engineering team, set the architecture and quality standards, and still write and review the code.
+
+Fourteen years in software, the last four spent almost entirely on systems integration: making things that were never designed to talk to each other work together reliably, across borders, in low-bandwidth markets, on infrastructure we run ourselves.
 
 ---
 
-## 🛠️ Tech Stack
+## What I work on
 
-**Frontend**  
-![Next.js](https://skillicons.dev/icons?i=nextjs) ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=js)
+**Multi-system integration platform** — A spec-first integration hub fronting more than twelve external systems: a website platform, a listings platform, three Google data APIs, transactional email, object storage, a CRM, an ERP, a reporting service and a legacy Oracle registry. Fastify and Node on the backend, Next.js on the front, PostgreSQL and Redis behind it, with a 16,000-line OpenAPI contract that generates the shared types. Governance is part of the product: scoped API keys, key rotation, feature flags, integration health monitoring and an encrypted-column layer.
 
-**Backend**  
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![GraphQL](https://skillicons.dev/icons?i=graphql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Express](https://skillicons.dev/icons?i=express)
+**Payment gateway abstraction** — A payments backend where every provider is an adapter behind one interface: capability negotiation, checkout construction, callback handling and refunds. Adding a market is one new file and one line in the registry. Running in production across two countries and three gateways, including a direct M-Pesa Daraja integration and card acquiring with EMV 3DS 2.2.0.
 
-**DevOps & Cloud**  
-![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+**Governed data access for AI tooling** — A read-only platform gateway exposing four datastores (PostgreSQL, MySQL, Oracle, Redis) to AI agents and internal services, with the read-only guarantee enforced at the SQL-parse layer rather than by convention, and designed to run VPC-internal with no outbound egress.
 
----
+**Client integration consulting** — Lead intake middleware for a Portugal-based client, delivered with a written decision record, an explicit scope boundary, thirteen architecture decision records, an operational runbook and a downstream CRM push that ships built but configuration-gated, because the client's CRM is mid go-live.
 
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Procurement Tool**](https://github.com/WalterOkumu/procurement-tool) | Multi-tenant request management with SSH-tunnel & Row-Level Security on Postgres — serving 50+ branches | Next.js · PostgreSQL · Node.js · Docker |
-| [**Headless eCommerce**](https://github.com/WalterOkumu/headless-ecommerce) | Next.js + Headless WordPress store with M-Pesa Express integration | Next.js · TypeScript · M-Pesa API · WordPress |
-| [**AI Chatbot Workflows**](https://github.com/WalterOkumu/ai-chatbot) | Ollama + LangChain automations for custom LLM pipelines — 10K+ monthly queries | Ollama · LangChain · Node.js · PostgreSQL |
-| [**Digital Signage Dashboard**](https://github.com/WalterOkumu/rhodium-dashboard) | Real-time analytics & content management for Rhodium Digital Signage | Next.js · WebSockets · PostgreSQL |
+> Most of this work lives in private repositories. I write about the architecture publicly instead — see **[integration-architecture-notes](https://github.com/WalterOkumu/integration-architecture-notes)**.
 
 ---
 
-## 📈 GitHub Stats
+## Selected outcomes
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/WalterOkumu?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
----
-
-## 🎯 What I'm Working On
-
-- Building a **website audit tool** powered by AI — runs Lighthouse + generates plain-English recommendations
-- Contributing to **open source** projects in the Next.js and Node.js ecosystem
-- Available for: **Next.js development**, **Node.js APIs**, **CI/CD & DevOps setup**, **M-Pesa integrations**, **monthly retainer care plans**
+| | |
+|---|---|
+| **78%** | reduction in deployment errors after introducing a GitHub Actions + Docker CI/CD pipeline |
+| **99.8%** | uptime on the core API infrastructure serving all group digital products |
+| **7 countries** | technical delivery span, UTC+1 to UTC+9 |
+| **20%** | page-load improvement across a seven-country Drupal → Next.js migration, with no service interruption |
+| **40%** | improvement in customer satisfaction while leading a 15-person cross-functional function |
 
 ---
 
-## 🤝 Let's Work Together
+## How I work
 
-If you need a senior engineer who can build, lead, and deliver — reach out.
+Specification before implementation. Architecture decisions written down and dated, including the ones that turned out wrong. Conventional Commits enforced in CI, protected branches, tag-triggered deploys, automated versioning. Documentation treated as part of the change, not a follow-up. Mobile-first and WCAG 2.1 AA on anything with a UI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/okumu-oriaro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=vercel)](https://walter-okumu-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-orange?style=for-the-badge&logo=gmail)](mailto:okumu.oriaro@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@OkumuOriaro-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/OkumuOriaro)
+I have an ISO 9001 habit for process, ISO 31000 for risk and ISO 27001 for security hygiene — applied at the scale a small team can actually sustain, not as paperwork.
 
 ---
 
-> *"I build tools that empower teams to do more, faster."*
+## Stack
+
+**Backend** Node.js · Fastify · Express · PostgreSQL · Redis · Oracle · MySQL · OpenAPI
+**Frontend** Next.js · React · TypeScript / JavaScript · Tailwind CSS
+**Infrastructure** Docker · GitHub Actions · self-hosted CI runners · PM2 · Apache2 · Linux VPS · MinIO · AWS (EC2, S3, RDS)
+**Integration** REST and webhook design · adapter and registry patterns · queue-backed jobs (BullMQ) · payment rails (M-Pesa Daraja, SISP, card/3DS) · CRM and ERP connectors
+**AI** Model Context Protocol servers · agent tool registries and memory · pgvector / RAG · LLM routing
+
+---
+
+## Also
+
+Mentoring full-stack developers at [Microverse](https://www.microverse.org/) since 2022 — weekly code review covering architecture decisions and real-world engineering standards. Three mentees have gone on to their first developer roles.
+
+Building [ContentFloa](https://contentfloa.com), an AI content marketing platform for Small & Medium Businesses.
+
+Working toward AWS Solutions Architect – Associate.
